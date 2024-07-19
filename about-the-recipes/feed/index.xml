@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Allergy-Friendly Recipes	</title>
+	<atom:link href="/about-the-recipes/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>An Allergy-Friendly Kitchen</description>
+	<lastBuildDate>Thu, 28 Oct 2021 21:46:11 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6</generator>
+	<item>
+		<title>
+		By: Stephanie		</title>
+		<link>/about-the-recipes/#comment-30</link>
+
+		<dc:creator><![CDATA[Stephanie]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2020 12:48:25 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1258#comment-30</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/about-the-recipes/#comment-29&quot;&gt;seck&lt;/a&gt;.
+
+Yes, you can take a look at the &quot;My Safe Foods&quot;. This includes all of the ingredients that I am currently able to cook with, including condiments. /my-safe-foods/
+Condiments can be quite challenging with food allergies due to the typical use of egg, dairy, soy, fish, and wheat. However, coconut aminos is a great substitute for soy sauce and I use apple cider vinegar. Hope this helps!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/about-the-recipes/#comment-29">seck</a>.</p>
+<p>Yes, you can take a look at the &#8220;My Safe Foods&#8221;. This includes all of the ingredients that I am currently able to cook with, including condiments. <a href="/my-safe-foods/" rel="ugc">/my-safe-foods/</a><br />
+Condiments can be quite challenging with food allergies due to the typical use of egg, dairy, soy, fish, and wheat. However, coconut aminos is a great substitute for soy sauce and I use apple cider vinegar. Hope this helps!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: seck		</title>
+		<link>/about-the-recipes/#comment-29</link>
+
+		<dc:creator><![CDATA[seck]]></dc:creator>
+		<pubDate>Wed, 11 Nov 2020 15:26:41 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1258#comment-29</guid>
+
+					<description><![CDATA[Is there a list for condiments?
+Soy sauce, fish sauce, venegar ( which type)...]]></description>
+			<content:encoded><![CDATA[<p>Is there a list for condiments?<br />
+Soy sauce, fish sauce, venegar ( which type)&#8230;</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

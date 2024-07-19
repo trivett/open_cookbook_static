@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Simple Cucumber &#038; Beef Stir Fry	</title>
+	<atom:link href="/simple-cucumber-beef-stir-fry/feed/" rel="self" type="application/rss+xml" />
+	<link>/simple-cucumber-beef-stir-fry/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=simple-cucumber-beef-stir-fry</link>
+	<description>An Allergy-Friendly Kitchen</description>
+	<lastBuildDate>Tue, 11 Apr 2023 22:35:50 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6</generator>
+	<item>
+		<title>
+		By: Angie		</title>
+		<link>/simple-cucumber-beef-stir-fry/#comment-789</link>
+
+		<dc:creator><![CDATA[Angie]]></dc:creator>
+		<pubDate>Tue, 11 Apr 2023 22:35:50 +0000</pubDate>
+		<guid isPermaLink="false">/?p=6712#comment-789</guid>
+
+					<description><![CDATA[Wonderful! Such a light and fresh dish!]]></description>
+			<content:encoded><![CDATA[<p>Wonderful! Such a light and fresh dish!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Stephanie		</title>
+		<link>/simple-cucumber-beef-stir-fry/#comment-429</link>
+
+		<dc:creator><![CDATA[Stephanie]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2021 21:39:00 +0000</pubDate>
+		<guid isPermaLink="false">/?p=6712#comment-429</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/simple-cucumber-beef-stir-fry/#comment-428&quot;&gt;Melissa&lt;/a&gt;.
+
+Thank you for taking the time to leave a review. It made my day hearing that you enjoyed trying cooked cucumbers - they really are one of my favorites!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/simple-cucumber-beef-stir-fry/#comment-428">Melissa</a>.</p>
+<p>Thank you for taking the time to leave a review. It made my day hearing that you enjoyed trying cooked cucumbers &#8211; they really are one of my favorites!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Melissa		</title>
+		<link>/simple-cucumber-beef-stir-fry/#comment-428</link>
+
+		<dc:creator><![CDATA[Melissa]]></dc:creator>
+		<pubDate>Fri, 17 Sep 2021 05:07:49 +0000</pubDate>
+		<guid isPermaLink="false">/?p=6712#comment-428</guid>
+
+					<description><![CDATA[This was delicious! I never would have thought to cook cucumbers!]]></description>
+			<content:encoded><![CDATA[<p>This was delicious! I never would have thought to cook cucumbers!</p>
+<p class="stars"><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span><span class="dashicons dashicons-star-filled"></span></p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

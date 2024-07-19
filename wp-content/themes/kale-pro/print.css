@@ -1,0 +1,139 @@
+body * {
+	border: 0 none !important;
+}
+
+body.single-post.custom-background {
+	background-color: #fff;
+}
+
+.single-post a[href]:after {
+    content: none !important;
+}
+
+.single-post .main {
+	padding: 0;
+	margin: 0;
+}
+
+.single-post .default-background-color,
+.single-post .wrapper {
+	width: 100%;
+	max-width: 100%;
+}
+
+.recipe-info .publish-date,
+.recipe-print,
+.recipe-author,
+.fa,
+.single-post .header-row-1,
+.single-post .header-row-3,
+.single-post .sidebar,
+.single-post .footer-widgets,
+.single-post .footer,
+.single-post .entry-related-posts,
+.single-post .pagination-post,
+.single-post .comments,
+.single-post .jump-to-recipe,
+.single-post .entry-header,
+.single-post .entry-footer,
+.single-post .entry-title,
+.single-post .entry-thumb,
+.single-post .single-content > *:not( #lt-recipe ) {
+	display: none;
+}
+
+/* Recipe card */
+
+.lt-recipe {
+	background-color: #fff;
+    border: 0 none transparent;
+    padding: 30px 0 0;
+    margin: 0;
+}
+
+.lt-recipe .recipe-info {
+    border-top: 0 none transparent;
+    border-bottom: 0 none transparent;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+.lt-recipe .recipe-info li {
+	display: block;
+	margin: 0;
+}
+
+.lt-recipe .recipe-info li.recipe-print,
+.lt-recipe .recipe-author,
+.recipe-info .recipe-date,
+.recipe-info .fa {
+	display: none;
+}
+
+.lt-recipe h4 {
+	margin-bottom: 20px;
+	margin-top: 10px;
+	font-size: 22px;
+}
+
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9 {
+	float: none;
+	clear: both;
+	width: auto;
+}
+
+.single-post .lt-recipe ul.recipe-info,
+.single-post .lt-recipe .recipe-ingredients ul {
+	list-style: disc !important;
+	list-style-position: inside !important;
+	margin-bottom: 30px;
+    padding-left: 10px;
+}
+
+.lt-recipe .recipe-directions dd {
+	margin-bottom: 10px;
+}
+
+.lt-recipe .recipe-image {
+	margin-bottom: 30px;
+}
+
+.lt-recipe h5 {
+    margin: 0 0 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #000 !important;
+}
+
+.lt-recipe li:empty {
+   display: none;
+}
+
+.lt-recipe .step {
+	font-weight: 700;
+	margin-right: 10px;
+	color: #000;
+}
+
+.lt-recipe .recipe-summary{
+	font-size: 16px;
+}
+.lt-recipe .recipe-ingredients ul,
+.lt-recipe .recipe-directions ul{
+	font-size: 16px;
+}
+.lt-recipe .recipe-ingredients a{ 
+	text-decoration: none; 
+}
